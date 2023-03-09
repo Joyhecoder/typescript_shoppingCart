@@ -7,21 +7,21 @@
     },
     {
         "id": 2,
-        "name": "The Ordinary Lotion, Moisturiser and Night Cream Set",
+        "name": "The Ordinary Cream Set",
         "price": 159.49,
         "imgUrl": "https://images.unsplash.com/photo-1580870069867-74c57ee1bb07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1035&q=80"
     },
     {
         "id": 3,
-        "name": "Turmeric Face Wash and Scrub Set",
+        "name": "Turmeric Face Wash & Scrub Set",
         "price": 79.49,
         "imgUrl": "https://images.unsplash.com/photo-1564594206491-26734df9237f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
     },
     {
         "id": 4,
-        "name": "St Barth Body Oil",
-        "price": 35.99,
-        "imgUrl": "https://images.unsplash.com/photo-1532413992378-f169ac26fff0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80"
+        "name": "Because It's You Shower Gel",
+        "price": 19.99,
+        "imgUrl": "https://images.unsplash.com/photo-1584949514123-474cfa705dfe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
     },
     {
         "id": 5,
@@ -31,15 +31,16 @@
     },
     {
         "id": 6,
-        "name": "Poko Luxury Facial Oil and Moisturiser Set",
+        "name": "Poko Facial Oil and Moisturiser Set",
         "price": 89.99,
         "imgUrl": "https://images.unsplash.com/photo-1629380106682-6736d2c327ed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
     },
     {
         "id": 7,
-        "name": "Because It's You Shower Gel",
-        "price": 19.99,
-        "imgUrl": "https://images.unsplash.com/photo-1584949514123-474cfa705dfe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+        "name": "St Barth Body Oil",
+        "price": 35.99,
+        "imgUrl": "https://images.unsplash.com/photo-1532413992378-f169ac26fff0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80"
+       
     },
     {
         "id": 8,
